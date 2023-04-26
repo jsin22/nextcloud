@@ -6,3 +6,5 @@ https://www.ionos.com/digitalguide/server/configuration/nextcloud-installation-w
 
 
 Register DNS on www.duckdns.org
+
+Move env file to .env
